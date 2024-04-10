@@ -1,1 +1,1 @@
-# WeddingReservation.github.io
+# WeddingReservation
