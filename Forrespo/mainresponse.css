@@ -1,0 +1,66 @@
+@media  (max-width: 1400px){
+    .main{
+        display: grid;
+        grid-template-columns: 100%;
+    }
+    .mainheader{  
+        background-color: rgba(29, 29, 29, 0.932);
+        color:white;
+        height: 80px;
+        margin-top: -30px;
+      
+    }
+    .vows{
+        font-size: 90px;
+    }
+    hr{
+        top: 480px;
+        left: 36%;
+    }
+    .forever{
+      
+        font-size: 45px;
+        margin-left: 33%;
+    }
+    .about{
+        margin-left: 70px;
+    }
+    .wifehusband{
+        margin-left: 820px;
+        margin-top: -340px;
+        border-radius: 5px;
+        height: 600px;
+    }
+    .offer{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .serviceimg{
+        width: 300px;
+       
+    }
+    #btnViewmore{
+        margin: 100px 570px;
+        cursor: pointer;
+    }
+    .contactdescrip{
+        margin: 80px 100px;
+        width: 500px;
+        color: white;
+    }
+    .contactInfo{
+        margin-left: 820px;
+    }
+    .footerabout{
+        margin-left: 90px;
+    }
+    .footer2about{
+        margin-left: 750px;
+    }
+    .title{
+        font-size: 30px;
+    }.mainNav{
+        margin-top: -58px;
+        font-size: 25spx;
+    }
+}   

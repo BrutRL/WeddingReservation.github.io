@@ -1,0 +1,46 @@
+@media  (max-width: 1400px){
+    #contactUs{
+    height: 350px;
+    width: 100%;
+    margin-top: -100px;
+}
+.contactdescrip{
+    margin: 20px 80px;
+    width: 500px;
+}
+.contactdescript{
+    font-size: 15px;
+    padding-top: -100px;
+}
+.contactInfo{
+    width: 500px;
+    margin-left: 750px;
+    margin-top: -280px;
+}
+.contacttext{
+    font-size: 25px;
+}
+
+.footer2about{
+    margin-left: 700px;
+    margin-top: -55px;
+}
+
+.mainlogo{
+    height: 1000px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 20px;
+    margin-top: 50px;
+    padding-left: 300px;
+}
+.firstLogo, .secondLogo, .thirdLogo, .fourthLogo{
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+
+}
+#btncheckDetails, #btncheckDetails2, #btncheckDetails3, #btncheckDetails4{
+    width: 300px;
+}
+}

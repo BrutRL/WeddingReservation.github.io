@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+.comment{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 600px;
+    margin-left: 400px;
+
+}
+.container {
+    width: 80%;
+    max-width: 600px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.feedback-item {
+    background: linear-gradient(to bottom, #f9f9f9, #ffffff);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.feedback-item p {
+    margin: 10px 0;
+    color: #555;
+}
+.feedback-item p strong {
+    color: #333;
+}
+.header{
+    background-color: #282828;
+    width: 100%;
+    height: 60px;
+    position: relative;
+}
+.admin{
+    color: #FFFF;
+    text-align: left;
+    font-size: 30px;
+    padding: 13px 50px;
+}
+nav{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    right: 35%;
+    top: 18px;
+}
+nav a:hover {
+    color: #ffc107;
+}
+a{
+    color: #FFFF;
+    font-family: "Gilda Display", serif;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.delete-btn {
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}

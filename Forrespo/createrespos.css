@@ -1,0 +1,37 @@
+@media  (max-width: 1400px){
+    .vows{
+    font-size:30px;
+
+}
+h1{ 
+    font-size: 50px;
+    top: 100px;
+    left: 180px;
+}
+.SignPage{
+    height: 400px;
+    padding-top: 100px;
+    padding-left: 500px;
+    margin-left: 100px; 
+    margin-top: -60px      ;
+}
+.signinPage{
+    margin-top: -20px;
+    height: 600px;
+}
+h2{
+   
+    font-size: 35px;
+    padding-top: 20px;
+}
+input{
+    
+    width: 400px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#backBtn{
+    margin-top: 10px;
+}
+}

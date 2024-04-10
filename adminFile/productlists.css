@@ -1,0 +1,14 @@
+.cattering, .photographer, .venue, .package{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+h1{
+    font-family: "Gilda Display", serif;
+    font-weight: 700;
+    font-style: medium;
+}
+img{
+    margin-top: 20px;
+    border-radius: 10px;
+}

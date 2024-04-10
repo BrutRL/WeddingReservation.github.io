@@ -1,0 +1,18 @@
+@media  (max-width: 1400px){
+    .vows{
+        font-size:30px;
+    
+    }
+    h1{ 
+        font-size: 50px;
+        top: 100px;
+        left: 280px;
+    }
+    .SignPage{
+        height: 400px;
+        padding-top: 100px;
+        padding-left: 500px;
+        margin-left: 100px; 
+        margin-top: -60px      ;
+    }
+}
