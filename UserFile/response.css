@@ -1,0 +1,104 @@
+@media  (max-width: 1400px){
+    .linkfood, .packageinfo{
+        height: 400px;
+        width: 500px;
+        margin-left: 100px;
+    }
+    #food{
+        margin-left: 0px;
+        width: 100%;
+     }
+     .foods, .venueinfo, .photo, .packagetext{
+        font-size: 45px;
+        margin-top: -10px;
+    }
+    #btndiscover, #btndiscover2, #btndiscover3,#btndiscover4{
+        margin-top: 20px;
+    }
+    .tanginamo{
+        width: 500px;
+        margin: -500px 700px;
+    }
+    #photographer{
+        height: 500px;
+        width: 100%;
+        margin: 0px -100px;
+        padding-left: 70px;
+        
+    }
+    .photoinfo{
+        height: 400px;
+        width: 500px;
+        margin-left: 750px;
+        margin-top: -404px;
+    }
+    #package{
+        height: 500px;
+        width: 100%;
+        margin: -100px -30px;
+    }
+    .img{
+        width: 200px;
+    }
+    .picphoto{
+        margin-top: -500px;
+        margin-left: 640px;
+    }
+    .pacphoto{
+        width: 680px;
+        height: 400px;
+    }
+    .photoPic{
+        width:600px;
+        height: 400px;
+    }
+    #venue{
+    height: 500px;
+    width: 100%;
+    margin: 100px -100px;
+    padding-left: 50px;
+    }
+    .venPic{
+        height: 400px;
+        width: 650px;
+    }
+    .venueInfo{
+        margin-left: 780px;
+        margin-top: -404px;
+        height: 400px;
+        width: 500px;
+       
+    }
+    #btndiscover2{
+        margin-top: -15px;
+    }
+    #contactUs{
+        height: 350px;
+        width: 100%;
+        margin-top: -100px;
+    }
+    .contactdescrip{
+        margin: 20px 80px;
+        width: 500px;
+    }
+    .contactdescript{
+        font-size: 15px;
+        padding-top: -100px;
+    }
+    .contactInfo{
+        width: 500px;
+        margin-left: 750px;
+        margin-top: -280px;
+    }
+    .contacttext{
+        font-size: 25px;
+    }
+   
+    .footer2about{
+        margin-left: 700px;
+        margin-top: -55px;
+
+    }
+
+    
+}
